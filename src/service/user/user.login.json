@@ -1,0 +1,19 @@
+{
+    "usuarios": [
+        {
+            "fullname": "Hanna Gonzalez",
+            "correo": "hanna@gmail.com",
+            "contrasena": "29062014"
+        },
+        {
+            "fullname": "Rufo Suancha",
+            "correo": "rifinio@gmail.com",
+            "contrasena": "29062014"
+        },
+        {
+            "fullname": "Ramon Rodriguez",
+            "correo": "ramoncillo@gmail.com",
+            "contrasena": "29062014"
+        }
+    ]
+}
